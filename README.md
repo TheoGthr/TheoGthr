@@ -1,6 +1,6 @@
 # [Théo Gauthier - Resume](https://startbootstrap.com/template-overviews/resume/)
 
-My [resume](https://startbootstrap.com/template-overviews/resume/) website with all my development and cyber security experiences. I used startbootstrap template for this website as I am not a good frontend designer :See-No-Evil Monkey:
+My [resume](https://startbootstrap.com/template-overviews/resume/) website with all my development and cyber security experiences. I used startbootstrap template for this website as I am not a good frontend designer :see_no_evil:
 
 ## Copyright and License - 
 
