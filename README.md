@@ -1,4 +1,4 @@
-# [Théo Gauthier - Resume](https://startbootstrap.com/template-overviews/resume/)
+# Théo Gauthier - Resume
 
 My [resume](https://startbootstrap.com/template-overviews/resume/) website with all my development and cyber security experiences. I used startbootstrap template for this website as I am not a good frontend designer :see_no_evil:
 
