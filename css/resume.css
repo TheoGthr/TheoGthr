@@ -85,12 +85,6 @@ p.lead {
   font-size: 3rem;
 }
 
-.dev-icons .list-inline-itema {
-  /*  i {
-      align-items: center;
-    } */
-}
-
 .dev-icons .list-inline-itema i:hover {
   color: #cc9900;
 }
@@ -153,6 +147,7 @@ li {
     width: 17rem;
     height: 100vh;
   }
+
   #sideNav .navbar-brand {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -160,11 +155,13 @@ li {
     margin: auto auto 0;
     padding: 0.5rem;
   }
+
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
   }
+
   #sideNav .navbar-collapse {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -178,6 +175,7 @@ li {
     width: 100%;
     margin-bottom: auto;
   }
+
   #sideNav .navbar-collapse .navbar-nav {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -185,9 +183,11 @@ li {
     flex-direction: column;
     width: 100%;
   }
+
   #sideNav .navbar-collapse .navbar-nav .nav-item {
     display: block;
   }
+
   #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
     display: block;
   }
@@ -207,6 +207,7 @@ section.resume-section .resume-item .resume-date {
   section.resume-section {
     min-height: 100vh;
   }
+
   section.resume-section .resume-item .resume-date {
     min-width: 18rem;
   }
@@ -231,7 +232,9 @@ a {
   color: #cc9900;
 }
 
-a:hover, a:focus, a:active {
+a:hover,
+a:focus,
+a:active {
   color: #806000;
 }
 
@@ -250,3 +253,9 @@ a:hover, a:focus, a:active {
 }
 
 /**** End Games ****/
+
+.btn-primary {
+  color: white !important;
+  background-color: #cc9900 !important;
+  border-color: #cc9900 !important;
+}
